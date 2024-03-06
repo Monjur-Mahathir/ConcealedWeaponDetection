@@ -197,6 +197,6 @@ if __name__ == "__main__":
         test(
             #filename="F:/ConcealedWeapon/data/Monday_processed/0.npy", 
             filename="F:/ConcealedWeapon/data/forward_triggered_frames-00000.pickle",
-            model_file="F:/ConcealedWeapon/weights/rd1/test_rd104"
+            model_file="test_rd104"
         )
     print(full_dist, left_chest_dist, right_chest_dist, left_pocket_dist, right_pocket_dist)
